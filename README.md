@@ -8,3 +8,5 @@ If I were doing this again, I would have focused on more color aligned color sch
 For the second analysis of a business, I was tasked with analyzing the service tiers of a business. Within this task, I was required to build a predetermined dashboard, and then create my own. 
 https://public.tableau.com/app/profile/wes.baker/viz/AnalysisofServiceTiers/AccountPortfolioDashboard
 If I were to repeat this task, I would likely experiment with different types of visuals in order to see if there is a better way to portray the data.
+
+BNAN 430, 9/28/2026, https://public.tableau.com/app/profile/wes.baker/vizzes
