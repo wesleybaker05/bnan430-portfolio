@@ -10,3 +10,4 @@ https://public.tableau.com/app/profile/wes.baker/viz/AnalysisofServiceTiers/Acco
 If I were to repeat this task, I would likely experiment with different types of visuals in order to see if there is a better way to portray the data.
 
 BNAN 430, 9/28/2026, https://public.tableau.com/app/profile/wes.baker/vizzes
+Using Tableau, while I have to maunally map data and it may feel like an extra step, this step gets rid of the opportunity to have data mapped poorly automatically. By adding the extra step, Tableau makes it so that there is no chance my data mapping fails, which makes me feel like I have more control. Because I am more fluent in Tableau, I would likely do this task in Tableau in the future.
