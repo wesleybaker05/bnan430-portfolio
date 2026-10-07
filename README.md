@@ -11,3 +11,6 @@ If I were to repeat this task, I would likely experiment with different types of
 
 BNAN 430, 9/28/2026, https://public.tableau.com/app/profile/wes.baker/vizzes
 Using Tableau, while I have to maunally map data and it may feel like an extra step, this step gets rid of the opportunity to have data mapped poorly automatically. By adding the extra step, Tableau makes it so that there is no chance my data mapping fails, which makes me feel like I have more control. Because I am more fluent in Tableau, I would likely do this task in Tableau in the future.
+
+BNAN 430, 10/5/2026, https://public.tableau.com/app/profile/wes.baker/viz/PowerBITrainingCertifications_17906601650340/PowerBITrainingCertificates?publish=yes
+I built a profit margin calculated field, SUM([Profit])/SUM([Revenue]), which divides total profit by total revenue. In Power BI I'd make it a measure rather than a calculated column, because it has to add up profit and revenue for by region, or by  another category, A margin stored on each row would give an incorrect result. Within the model, Anita and Marcus can slice it themselves in a meeting and always see a current number opposed to waiting on a new verison of the same sheet.
