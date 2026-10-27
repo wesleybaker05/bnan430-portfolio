@@ -24,3 +24,8 @@ Card Portfolio Review - BNAN 430
 Which non-contactless cards should Bear Down Bank replace early this quarter, and what will it cost?
 https://public.tableau.com/views/CardPortfolioReview_17924593962870/DesignJustification?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I did it again, I would build the explanatory chart first and design the exploratory dashboard around it, so the colors and labels matched from the start.
+
+Advancing in Excel and Tableau Part 4, BNAN 430
+Which customer group should receive the pilot mailing of the Wildcat Rewards Card, based on the concentration of eligible customers? 
+https://public.tableau.com/views/BDBCardsCustomers/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+If I were to do this assignment again, I would likely add a second view to see the disparity of generations within each pilot state, so we could get a better sense of these demographics and possibly find an even more accessible, more concentrated group within these regions.
