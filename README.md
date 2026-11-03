@@ -29,3 +29,8 @@ Advancing in Excel and Tableau Part 4, BNAN 430
 Which customer group should receive the pilot mailing of the Wildcat Rewards Card, based on the concentration of eligible customers? 
 https://public.tableau.com/views/BDBCardsCustomers/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 If I were to do this assignment again, I would likely add a second view to see the disparity of generations within each pilot state, so we could get a better sense of these demographics and possibly find an even more accessible, more concentrated group within these regions.
+
+Data Storytelling in Adobe Express
+https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:1ed7f4ea-cf5b-5e4e-b8d5-c90d33251c14?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other
+Visual selection: I began with a bar chart of profit margin by discount level, as the CFO’s decision is a "go ahead" or a "no"  based on discounting, and six bars ranging from +18.7% to −63.3% make the answer obvious in just a few seconds. The alternative was a line chart of margin over time, which showed the same data but was less intuitive at first glance. I got rid of the full 17 category margin chart, keeping only the 6 smallest, which helped this chart become easier to read instead of giving people a random array of bars.
+For this assignment, I used generative AI to problem solve within Express, to plan out how I would layout the page, and finally, to check my creation against the rubric. Anthropic. (2026). Claude (Fable 5.1) [Large language model]. https://claude.ai
